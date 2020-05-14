@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
-author_profile: False
+author_profile: True
 redirect_from:
   - /resume
 ---
@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Telecommunication Science and Technology, Lanzhou University, 2010 - 2014
+* M.S. in Control Science and Engineer, Zhejiang University, 2014 - 2017
+  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
+* Ph.D in Informatik, CISPA Helmholtz Center for Information Security, 2019 - Now
+  * Supervisor: [Prof. Michael Backes](https://cispa.saarland/people/backes/)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2019: Operating System Engineer
+  * 2012 Labs@Huawei Technologies Co., Ltd
+  * Duties included: Develop docker, cgroup, HongmengOS
+  * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python
+  * C/C++
+  * Shell
+  * Go
+  * Java
+  * Markdown
+  * Latex
+* Tools
+  * Git
+  * Docker
+* DevOps
+  * Jenkins CI
+  * Test Automation
+* Linux Kernel
+* Data Mining
+* Patent Writing
 
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
