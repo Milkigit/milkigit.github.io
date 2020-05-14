@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Min Chen"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "PhD student at CISPA"
+  bio              : ""
   location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
