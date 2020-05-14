@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-05-unlearning
 excerpt: ''
 date: 2020-05-05
-year: 2020
+year:
 venue: ''
 url: ' https://arxiv.org/abs/2005.02205 '
 citation: 
