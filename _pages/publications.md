@@ -10,7 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<h1>2018</h1>
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {{ assign dateTemp = post.date | date: %Y" }}
+  {{dateTemp}}
+  {{dateTemp}}
+
+  {% include archive-single.html  %}
 {% endfor %}
