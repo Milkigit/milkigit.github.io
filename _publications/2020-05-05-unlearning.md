@@ -1,7 +1,7 @@
 ---
 title: "When Machine Unlearning Jeopardizes Privacy"
 collection: publications
-permalink:
+permalink: /publication/2020-05-05-unlearning
 excerpt: ''
 date: 2020-05-05
 year: 2020
