@@ -16,3 +16,4 @@ My current research interests include biomedical privacy and machine learning pr
 
 What's New
 ======
+- Our Technical report [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/pdf/2005.02205.pdf) is online.
