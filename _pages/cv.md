@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* 2017-2019, Operating System Engineer, 2012 Labs@Huawei Technologies Co., Ltd
+* 2017-2019, Operating System Engineer, 2012 Labs@Huawei Hangzhou
   * Duties included: develop docker(moby), linux kernel, HongmengOS microkernel
   * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
 
