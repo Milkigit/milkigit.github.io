@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunication Science and Technology, Lanzhou University, 2010 - 2014
-* M.S. in Control Science and Engineer, Zhejiang University, 2014 - 2017
-  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
-* Ph.D in Informatik, CISPA Helmholtz Center for Information Security, 2019 - Now
+* 2019 - Present, Ph.D in Informatik, CISPA Helmholtz Center for Information Security
   * Supervisor: [Prof. Michael Backes](https://cispa.saarland/people/backes/)
+* 2014 - 2017, M.S. in Control Science and Engineer, Zhejiang University
+  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
+* 2010 - 2014, B.S. in Telecommunication Science and Technology, Lanzhou University
 
 Work experience
 ======
-* 2017-2019: Operating System Engineer
-  * 2012 Labs@Huawei Technologies Co., Ltd
-  * Duties included: Develop docker, cgroup, HongmengOS
+* 2017-2019, Operating System Engineer, 2012 Labs@Huawei Technologies Co., Ltd
+  * Duties included: Develop docker(moby), linux cgroup, HongmengOS
   * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
-  
 
 Service
 ======
