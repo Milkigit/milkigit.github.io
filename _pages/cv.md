@@ -24,7 +24,29 @@ Work experience
   * Duties included: Develop docker, cgroup, HongmengOS
   * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
   
-Skills
+
+Service
+======
+* External Reviewer: EuroS&P'21, WWW'21, SAC'21, NDSS'21, AsiaCCS'21, AAAI'21, PoPETs’21, CCS’20, NDSS’20, WWW’20, RAID’20, ICWSM’20, ESORICS’20, SocInfo’20, ICC’17, ICC’16, GLOBECOM’16
+* Journal Reviewer: TDSC’20
+
+Teaching
+======
+I serve as a teaching assistant for the following advanced lecture and seminars at Saarland University.
+
+* Seminar: Data Privacy (2020 Winter)
+  * This is a seminar on machine learning security and privacy, details can be found [here](https://cms.cispa.saarland/dp2021/).
+
+* Advanced Lecture: Privacy Enhancing Technologies (2020 Summer)
+  * This lecture concentrates on privacy in the modern society, the detailed information can be found [here](https://cms.cispa.saarland/pets2020/).
+
+* Seminar: Data-driven Approaches on Understanding Disinformation (2020 Summer)
+  * This is a seminar on understandcing disinformation on the Web, details can be found [here](https://cms.cispa.saarland/daud2020/).
+
+* Seminar: Data Privacy (2019 Winter)
+  * This is a seminar on machine learning privacy, biomedical privacy, and social network privacy, details can be found [here](https://cms.cispa.saarland/dp2019/).
+
+<!-- Skills
 ======
 * Programming Language
   * Python
@@ -42,7 +64,7 @@ Skills
   * Test Automation
 * Linux Kernel
 * Data Mining
-* Patent Writing
+* Patent Writing -->
 
 <!-- 
 Publications
