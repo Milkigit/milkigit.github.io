@@ -17,7 +17,7 @@ Education
   * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
 * 2010 - 2014, B.S. in Telecommunication Science and Technology, Lanzhou University
 
-Work experience
+Experience
 ======
 * 2017-2019, Operating System Engineer, 2012 Labs@Huawei Technologies Co., Ltd
   * Duties included: Develop docker(moby), linux cgroup, HongmengOS
