@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * 2017-2019, Operating System Engineer, 2012 Labs@Huawei Technologies Co., Ltd
-  * Duties included: Develop docker(moby), linux cgroup, HongmengOS
+  * Duties included: develop docker(moby), linux kernel, HongmengOS microkernel
   * Supervisor: [Prof. Haibo Chen](https://ipads.se.sjtu.edu.cn/pub/members/haibo_chen)
 
 Service
@@ -29,7 +29,7 @@ Service
 * Journal Reviewer: TDSC’20
 
 Teaching
-======
+==
 I serve as a teaching assistant for the following advanced lecture and seminars at Saarland University.
 
 * Seminar: Data Privacy (2020 Winter) [detail](https://cms.cispa.saarland/dp2021/)
