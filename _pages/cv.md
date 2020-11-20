@@ -32,17 +32,13 @@ Teaching
 ======
 I serve as a teaching assistant for the following advanced lecture and seminars at Saarland University.
 
-* Seminar: Data Privacy (2020 Winter)
-  * This is a seminar on machine learning security and privacy, details can be found [here](https://cms.cispa.saarland/dp2021/).
+* Seminar: Data Privacy (2020 Winter) [detail](https://cms.cispa.saarland/dp2021/)
 
-* Advanced Lecture: Privacy Enhancing Technologies (2020 Summer)
-  * This lecture concentrates on privacy in the modern society, the detailed information can be found [here](https://cms.cispa.saarland/pets2020/).
+* Advanced Lecture: Privacy Enhancing Technologies (2020 Summer) [detail](https://cms.cispa.saarland/pets2020/)
 
-* Seminar: Data-driven Approaches on Understanding Disinformation (2020 Summer)
-  * This is a seminar on understandcing disinformation on the Web, details can be found [here](https://cms.cispa.saarland/daud2020/).
+* Seminar: Data-driven Approaches on Understanding Disinformation (2020 Summer) [detail](https://cms.cispa.saarland/daud2020/)
 
-* Seminar: Data Privacy (2019 Winter)
-  * This is a seminar on machine learning privacy, biomedical privacy, and social network privacy, details can be found [here](https://cms.cispa.saarland/dp2019/).
+* Seminar: Data Privacy (2019 Winter) [detail](https://cms.cispa.saarland/dp2019/)
 
 <!-- Skills
 ======
