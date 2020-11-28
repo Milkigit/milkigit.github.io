@@ -14,7 +14,7 @@ Education
 * 2019 - Present, Ph.D in Informatik, CISPA Helmholtz Center for Information Security
   * Supervisor: [Prof. Michael Backes](https://cispa.saarland/people/backes/)
 * 2014 - 2017, M.S. in Control Science and Engineer, Zhejiang University
-  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp)
+  * Supervisor: [Prof. Peng Cheng](https://person.zju.edu.cn/cp) Co-advisor: [Prof. Jiming Chen](https://person.zju.edu.cn/en/jmchen)
 * 2010 - 2014, B.S. in Telecommunication Science and Technology, Lanzhou University
 
 Experience
@@ -25,7 +25,7 @@ Experience
 
 Service
 ======
-* External Reviewer: EuroS&P'21, WWW'21, SAC'21, NDSS'21, AsiaCCS'21, AAAI'21, PoPETs’21, CCS’20, NDSS’20, WWW’20, RAID’20, ICWSM’20, ESORICS’20, SocInfo’20, ICC’17, ICC’16, GLOBECOM’16
+* External Reviewer: Security'21, EuroS&P'21, WWW'21, SAC'21, NDSS'21, AsiaCCS'21, AAAI'21, PoPETs’21, CCS’20, NDSS’20, WWW’20, RAID’20, ICWSM’20, ESORICS’20, SocInfo’20, ICC’17, ICC’16, GLOBECOM’16
 * Journal Reviewer: TDSC’20
 
 Teaching
