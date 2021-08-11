@@ -9,7 +9,7 @@ author_profile: true
 ___
 
 - ### <span style="color:#52ADC8">Inference Attacks Against Graph Embedding</span>
-Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang
+Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
 To appear in USENIX Security 2022.
 
 
