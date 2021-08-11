@@ -19,4 +19,8 @@ My research interests include <b>biomedical privacy</b> and <b>machine learning 
 
 - [July 2021] Our work “Inference Attacks Against Graph Embedding” got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 
+- [Mar 2021] Our Technical report titled [Graph Unlearning](https://arxiv.org/abs/2103.14991) is online.
+
+- [July 2020] I passed my [qualifying exam](https://www.graduateschool-computerscience.de/wp-content/uploads/GS_QE_Infosheet_logo.pdf).
+
 - [May 2020] Our Technical report titled [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/pdf/2005.02205.pdf) is online.
