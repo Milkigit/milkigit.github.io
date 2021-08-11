@@ -92,6 +92,7 @@ author:
   uri              :
   bitbucket        :
   codepen          :
+  dblp             : "https://dblp.org/pid/50/6996-32.html"
   dribbble         :
   flickr           :
   facebook         :
@@ -103,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "min-chen-854925ab"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-1128-7989"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
