@@ -17,6 +17,8 @@ My research interests include <b>machine learning privacy</b>, <b>biomedical pri
 
 ## What's New
 
+- [August 2021] One paper titled “When Machine Unlearning Jeopardize Privacy” got accepted in CCS 2021!
+
 - [July 2021] Our work “Inference Attacks Against Graph Embedding” got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 
 - [Mar 2021] Our Technical report titled [Graph Unlearning](https://arxiv.org/abs/2103.14991) is online now.

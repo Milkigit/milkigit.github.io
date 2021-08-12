@@ -25,14 +25,14 @@ ___
 *Tecnnical report* [[PDF]](https://arxiv.org/abs/2103.14991)
 
 
-## 2020
+## 2021
 ___
 
 ### <span style="color:#52ADC8">When Machine Unlearning Jeopardizes Privacy</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
-*Tecnnical report* [[PDF]](https://arxiv.org/abs/2005.02205)
+To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205)
 
 
 ## 2015
