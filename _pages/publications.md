@@ -22,7 +22,7 @@ ___
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
-To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205)
+In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205) [[Code]](https://github.com/MinChen00/UnlearningLeaks)
 
 
 ### <span style="color:#52ADC8">Graph Unlearning</span>
