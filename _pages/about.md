@@ -17,7 +17,7 @@ My research interests include <b>machine learning privacy</b>, <b>biomedical pri
 
 ## What's New
 
-- [Jan 2022] Our code for [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/pdf/2005.02205.pdf) is released.
+- [Jan 2022] Our code for [When Machine Unlearning Jeopardizes Privacy](https://github.com/MinChen00/UnlearningLeaks) is released.
 
 - [Aug 2021] Our work “When Machine Unlearning Jeopardize Privacy” got accepted in CCS 2021!
 
@@ -27,6 +27,6 @@ My research interests include <b>machine learning privacy</b>, <b>biomedical pri
 
 - [Jul 2020] I passed my qualifying exam.
 
-- [May 2020] Our Technical report titled [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/pdf/2005.02205.pdf) is online now.
+- [May 2020] Our Technical report titled [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205) is online now.
 
 - [Aug 2019] Starting my Ph.D. journey at CISPA Helmholtz Center for Information Security.
