@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-Hello! I am a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.saarland/), supervised by [Prof. Michael Backes](https://cispa.saarland/people/backes/) and daily work with [Dr. Yang Zhang](https://yangzhangalmo.github.io/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
+Hello! I am a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.saarland/), supervised by [Prof. Michael Backes](https://cispa.saarland/people/backes/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
 
 My research interests include <b>machine learning privacy</b>, <b>biomedical privacy</b>, and privacy threats in the physical world. I am always curious to investigate novel attack surfaces in different data processing scenarios, quantify the privacy risks, and develop privacy-preserving methods to mitigate the discovered risks.
 
