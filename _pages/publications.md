@@ -15,6 +15,20 @@ Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
 To appear in USENIX Security Symposium (USENIX Security 2022).
 
 
+### <span style="color:#52ADC8">Graph Unlearning</span>
+
+<b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
+
+To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
+
+
+### <span style="color:#52ADC8">Finding MNEMON: Reviving Memories of Node Embeddings</span>
+
+Yun Shen, Yufei Han, Zhikun Zhang, <b>Min Chen</b>, Ting Yu, Michael Backes, Yang Zhang, Gianluca Stringhini
+
+To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2204.06963) [[Code]](https://milkigit.github.io/publications/)
+
+
 ## 2021
 ___
 

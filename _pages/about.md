@@ -10,12 +10,22 @@ redirect_from:
 
 ## Bio
 
-Hello! I am a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.saarland/), supervised by [Prof. Michael Backes](https://cispa.saarland/people/backes/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
+Hello! I am a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.de/), supervised by [Prof. Dr. Dr. h. c. Michael Backes](https://cispa.de/people/backes/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
 
-My research interests include <b>machine learning privacy</b>, <b>biomedical privacy</b>, and privacy threats in the physical world. I am always curious to investigate novel attack surfaces in different data processing scenarios, quantify the privacy risks, and develop privacy-preserving methods to mitigate the discovered risks.
+## Research Interests
+
+- Privacy-preserving Machine Learning
+
+- Trustworthy Computing
 
 
 ## What's New
+
+- [May 2022] Our code for [Graph Unlearning](https://github.com/MinChen00/Graph-Unlearning.git) is released.
+
+- [Apr 2021] Our work “Graph Unlearning” got accepted in CCS 2022!
+
+- [Apr 2021] Our work “Finding MNEMON: Reviving Memories of Node Embeddings” got accepted in CCS 2022!
 
 - [Jan 2022] Our code for [When Machine Unlearning Jeopardizes Privacy](https://github.com/MinChen00/UnlearningLeaks) is released.
 
