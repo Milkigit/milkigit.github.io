@@ -8,25 +8,24 @@ author_profile: true
 ## 2022
 ___
 
-### <span style="color:#52ADC8">Inference Attacks Against Graph Embedding</span>
-
-Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
-
-To appear in USENIX Security Symposium (USENIX Security 2022).
-
-
 ### <span style="color:#52ADC8">Graph Unlearning</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
-To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
+In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
 
 
 ### <span style="color:#52ADC8">Finding MNEMON: Reviving Memories of Node Embeddings</span>
 
 Yun Shen, Yufei Han, Zhikun Zhang, <b>Min Chen</b>, Ting Yu, Michael Backes, Yang Zhang, Gianluca Stringhini
 
-To appear in ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2204.06963) [[Code]](https://milkigit.github.io/publications/)
+In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2204.06963) [[Code]](https://milkigit.github.io/publications/)
+
+### <span style="color:#52ADC8">Inference Attacks Against Graph Embedding</span>
+
+Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
+
+In USENIX Security Symposium (USENIX Security 2022).
 
 
 ## 2021
@@ -57,6 +56,6 @@ Yanjun Li, Lingkun Fu, <b>Min Chen</b>, Kaikai Chi, Yi-hua Zhu.
 
 ### <span style="color:#52ADC8">Ultra-low power consumption passive structure health monitoring system and method</span>
 
-Zhiguo Shi, <b>Min Chen</b>(Leading Author)), Jiming Chen
+Zhiguo Shi, <b>Min Chen</b>(Leading Author), Jiming Chen
 
 [[Patent]](http://www.soopat.com/Patent/201510736108)
