@@ -25,7 +25,7 @@ In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PD
 
 Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
 
-In USENIX Security Symposium (USENIX Security 2022).
+In USENIX Security Symposium (USENIX Security 2022). [[PDF]](https://arxiv.org/abs/2110.02631) [[Code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
 
 
 ## 2021
