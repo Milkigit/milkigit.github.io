@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-Hello! I am a third-year Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.de/), supervised by [Prof. Dr. Dr. h. c. Michael Backes](https://cispa.de/people/backes/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
+Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security](http://cispa.de/), supervised by [Prof. Dr. Dr. h. c. Michael Backes](https://cispa.de/people/backes/). Prior to joining CISPA, I was an Operating System Engineer at 2012 Labs@Huawei (Hangzhou). I got my master's degree from Zhejiang University (2017) and bachelor's degree from Lanzhou University (2014).
 
 ## Research Interests
 
