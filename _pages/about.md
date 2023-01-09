@@ -20,9 +20,9 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 
 ## What's New
-- [Nov 2022] Attending CCS 2022 in person (Looking forward to meet you in LA)
+- [Nov 2022] Attending CCS 2022 in person (Look forward to meeting you in LA!)
   
-- [Aug 2022] Attending USENIX 2022 in person (Looking forward to meet you in Boston)
+- [Aug 2022] Attending USENIX 2022 in person (Look forward to meeting you in Boston!)
   
 - [May 2022] Our code for [Graph Unlearning](https://github.com/MinChen00/Graph-Unlearning.git) is released.
 
