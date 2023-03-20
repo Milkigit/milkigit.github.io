@@ -9,13 +9,13 @@ author_profile: true
 ## 2023
 ___
 
-### <span style="color:#00c6fe">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information</span>
+### <span style="color:#4981da">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information</span>
 
 Quan Yuan, Zhikun Zhang, Linkang Du,  <b>Min Chen</b>, Peng Cheng, Mingyang Sun.
 
 To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
 
-### <span style="color:#00c6fe">Making Watermark Survive Model Extraction Attacks in Graph Neural Networks</span>
+### <span style="color:#4981da">Making Watermark Survive Model Extraction Attacks in Graph Neural Networks</span>
 
 Haiming Wang, Zhikun Zhang, <b>Min Chen</b>, Shibo He
 
@@ -25,20 +25,20 @@ To appear in [IEEE ICC 2023](https://icc2023.ieee-icc.org/) [[PDF]](https://milk
 ## 2022
 ___
 
-### <span style="color:#00c6fe">Graph Unlearning</span>
+### <span style="color:#4981da">Graph Unlearning</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
 In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
 
 
-### <span style="color:#00c6fe">Finding MNEMON: Reviving Memories of Node Embeddings</span>
+### <span style="color:#4981da">Finding MNEMON: Reviving Memories of Node Embeddings</span>
 
 Yun Shen, Yufei Han, Zhikun Zhang, <b>Min Chen</b>, Ting Yu, Michael Backes, Yang Zhang, Gianluca Stringhini
 
 In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2204.06963) [[Code]](https://milkigit.github.io/publications/)
 
-### <span style="color:#00c6fe">Inference Attacks Against Graph Embedding</span>
+### <span style="color:#4981da">Inference Attacks Against Graph Embedding</span>
 
 Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang.
 
@@ -48,14 +48,14 @@ In USENIX Security Symposium (USENIX Security 2022). [[PDF]](https://arxiv.org/a
 ## 2021
 ___
 
-### <span style="color:#00c6fe">When Machine Unlearning Jeopardizes Privacy</span>
+### <span style="color:#4981da">When Machine Unlearning Jeopardizes Privacy</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
 In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205) [[Code]](https://github.com/MinChen00/UnlearningLeaks)
 
 
-### <span style="color:#00c6fe">Graph Unlearning</span>
+### <span style="color:#4981da">Graph Unlearning</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang.
 
@@ -65,13 +65,13 @@ In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PD
 ## 2015
 ___
 
-### <span style="color:#00c6fe">RF-Based Charger Placement for Duty Cycle Guarantee in Battery-Free Sensor Networks</span>
+### <span style="color:#4981da">RF-Based Charger Placement for Duty Cycle Guarantee in Battery-Free Sensor Networks</span>
 
 Yanjun Li, Lingkun Fu, <b>Min Chen</b>, Kaikai Chi, Yi-hua Zhu.
 
 *IEEE Communications Letters* [[PDF]](https://arxiv.org/pdf/1508.02303.pdf)
 
-### <span style="color:#00c6fe">Ultra-low power consumption passive structure health monitoring system and method</span>
+### <span style="color:#4981da">Ultra-low power consumption passive structure health monitoring system and method</span>
 
 Zhiguo Shi, <b>Min Chen</b>(Leading Author), Jiming Chen
 
