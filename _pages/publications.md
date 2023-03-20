@@ -5,6 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2023
+___
+
+### <span style="color:#52ADC8">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information
+</span>
+
+Quan Yuan, Zhikun Zhang, Linkang Du,  <b>Min Chen</b>, Peng Cheng, Mingyang Sun.
+
+To appear in [USENIX Security 2023]((https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+
+### <span style="color:#52ADC8">Making Watermark Survive Model Extraction Attacks in Graph Neural Networks
+</span>
+
+Haiming Wang, Zhikun Zhang, <b>Min Chen</b>, Shibo He
+
+To appear in [IEEE ICC 2023](https://icc2023.ieee-icc.org/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+
+
 ## 2022
 ___
 
