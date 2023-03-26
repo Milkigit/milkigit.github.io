@@ -27,7 +27,7 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 <!-- - [Feb 2023] Share our work Graph Unlearning with Huawei AI4Sec Research Team -->
 
-- [Nov 2022] Attending [CCS 2022](https://www.sigsac.org/ccs/CCS2022/) in person (Look forward to meeting you in LA!)
+- [Nov 2022] Attending [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) in person (Look forward to meeting you in LA!)
   
 - [Aug 2022] Attending [USENIX 2022](https://www.usenix.org/conference/usenixsecurity22) in person (Look forward to meeting you in Boston!)
   
