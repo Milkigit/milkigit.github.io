@@ -21,23 +21,25 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 ## What's New
 
+- [Mar 2023] Our work “FACE-AUDITOR: Data Auditing in Facial Recognition Systems” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
+
 - [Mar 2023] Our work “PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 
-- [Feb 2023] Share our work Graph Unlearning with Huawei AI4Sec Research Team
+<!-- - [Feb 2023] Share our work Graph Unlearning with Huawei AI4Sec Research Team -->
 
-- [Nov 2022] Attending CCS 2022 in person (Look forward to meeting you in LA!)
+- [Nov 2022] Attending [CCS 2022](https://www.sigsac.org/ccs/CCS2022/) in person (Look forward to meeting you in LA!)
   
-- [Aug 2022] Attending USENIX 2022 in person (Look forward to meeting you in Boston!)
+- [Aug 2022] Attending [USENIX 2022](https://www.usenix.org/conference/usenixsecurity22) in person (Look forward to meeting you in Boston!)
   
 <!-- - [May 2022] Our code for [Graph Unlearning](https://github.com/MinChen00/Graph-Unlearning.git) is released. -->
 
-- [Apr 2021] Our work “Graph Unlearning” got accepted in CCS 2022!
+- [Apr 2021] Our work “Graph Unlearning” got accepted in [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
 
-- [Apr 2021] Our work “Finding MNEMON: Reviving Memories of Node Embeddings” got accepted in CCS 2022!
+- [Apr 2021] Our work “Finding MNEMON: Reviving Memories of Node Embeddings” got accepted in [ACM CCS 2022]((https://www.sigsac.org/ccs/CCS2022/))!
 
 <!-- - [Jan 2022] Our code for [When Machine Unlearning Jeopardizes Privacy](https://github.com/MinChen00/UnlearningLeaks) is released. -->
 
-- [Aug 2021] Our work “When Machine Unlearning Jeopardize Privacy” got accepted in CCS 2021!
+- [Aug 2021] Our work “When Machine Unlearning Jeopardize Privacy” got accepted in [ACM CCS 2021](https://www.sigsac.org/ccs/CCS2021/)!
 
 - [Jul 2021] Our work “Inference Attacks Against Graph Embedding” got accepted in [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22)!
 

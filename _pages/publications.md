@@ -9,6 +9,12 @@ author_profile: true
 ## 2023
 ___
 
+### <span style="color:#229ad5">FACE-AUDITOR: Data Auditing in Facial Recognition Systems</span>
+
+<b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Yang Zhang
+
+To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+
 ### <span style="color:#229ad5">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information</span>
 
 Quan Yuan, Zhikun Zhang, Linkang Du,  <b>Min Chen</b>, Peng Cheng, Mingyang Sun
@@ -30,7 +36,6 @@ ___
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang
 
 In ACM SIGSAC Conference on Computer and Communications Security (CCS 2022) [[PDF]](https://arxiv.org/abs/2103.14991) [[Code]](https://github.com/MinChen00/Graph-Unlearning)
-
 
 ### <span style="color:#229ad5">Finding MNEMON: Reviving Memories of Node Embeddings</span>
 
