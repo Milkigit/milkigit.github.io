@@ -29,7 +29,7 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 - [Nov 2022] Attending [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) in person (Look forward to meeting you in LA!)
   
-- [Aug 2022] Attending [USENIX 2022](https://www.usenix.org/conference/usenixsecurity22) in person (Look forward to meeting you in Boston!)
+- [Aug 2022] Attending [USENIX Security 2022](https://www.usenix.org/conference/usenixsecurity22) in person (Look forward to meeting you in Boston!)
   
 <!-- - [May 2022] Our code for [Graph Unlearning](https://github.com/MinChen00/Graph-Unlearning.git) is released. -->
 
@@ -49,4 +49,4 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 <!-- - [May 2020] Our Technical report titled [When Machine Unlearning Jeopardizes Privacy](https://arxiv.org/abs/2005.02205) is online now. -->
 
-- [Aug 2019] Starting my Ph.D. journey at CISPA Helmholtz Center for Information Security.
+- [Aug 2019] Starting my Ph.D. journey at [CISPA Helmholtz Center for Information Security](https://cispa.de/).
