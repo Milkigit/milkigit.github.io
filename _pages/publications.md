@@ -13,13 +13,13 @@ ___
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Yang Zhang
 
-To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02782) [[Code]](https://github.com/MinChen00/Face-Auditor)
 
 ### <span style="color:#229ad5">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information</span>
 
 Quan Yuan, Zhikun Zhang, Linkang Du,  <b>Min Chen</b>, Peng Cheng, Mingyang Sun
 
-To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02401) [[Code]](https://github.com/Privacy-Graph/PrivGraph)
 
 ### <span style="color:#229ad5">Making Watermark Survive Model Extraction Attacks in Graph Neural Networks</span>
 
