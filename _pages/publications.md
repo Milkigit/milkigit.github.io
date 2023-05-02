@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2023
 ___
+### <span style="color:#229ad5">DPMLBench: Holistic Evaluation of Differentially Private Machine Learning</span>
+Chengkun Wei, Minghu Zhao, Zhikun Zhang, <b>Min Chen</b>, Wenlong Meng, Bo Liu, Yuan Fan, Wenzhi Chen
+
+To appear in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
 
 ### <span style="color:#229ad5">FACE-AUDITOR: Data Auditing in Facial Recognition Systems</span>
 
