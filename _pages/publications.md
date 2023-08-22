@@ -4,7 +4,16 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+### <span style="color:#229ad5">ORL-Auditor: Dataset Auditing in Offline Deep Reinforcement Learning</span>
+Linkang Du, <b>Min Chen</b>, Mingyang Sun, Shouling Ji, Peng Cheng, Jiming Chen, Zhikun Zhang 
 
+To appear in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+
+### <span style="color:#229ad5">LMSanitator: Defending Task-agnostic Backdoors Against Prompt-tuning</span>
+Chengkun Wei, Wenlong Meng, Zhikun Zhang, <b>Min Chen</b>, Minghu Zhao, Wenjing Fang, Lei Wang, Zihui Zhang, Wenzhi Chen
+
+To appear in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
 
 ## 2023
 ___
@@ -17,19 +26,19 @@ To appear in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/) [[PDF]](https:/
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Yang Zhang
 
-To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02782) [[Code]](https://github.com/MinChen00/Face-Auditor)
+In [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02782) [[Code]](https://github.com/MinChen00/Face-Auditor)
 
 ### <span style="color:#229ad5">PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information</span>
 
 Quan Yuan, Zhikun Zhang, Linkang Du,  <b>Min Chen</b>, Peng Cheng, Mingyang Sun
 
-To appear in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02401) [[Code]](https://github.com/Privacy-Graph/PrivGraph)
+In [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23) [[PDF]](https://arxiv.org/abs/2304.02401) [[Code]](https://github.com/Privacy-Graph/PrivGraph)
 
 ### <span style="color:#229ad5">Making Watermark Survive Model Extraction Attacks in Graph Neural Networks</span>
 
 Haiming Wang, Zhikun Zhang, <b>Min Chen</b>, Shibo He
 
-To appear in [IEEE ICC 2023](https://icc2023.ieee-icc.org/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+In [IEEE ICC 2023](https://icc2023.ieee-icc.org/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
 
 
 ## 2022

@@ -20,13 +20,20 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 
 ## What's New
+
+<!-- - [Febrary 2023] Share our work on Unlearning with [INSAIT](https://insait.ai/) -->
+
+- [July 2023] Our work "LMSanitator: Defending Task-agnostic Backdoors Against Prompt-tuning" got accepted in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/)!
+
+- [June 2023] Our work "ORL-Auditor: Dataset Auditing in Offline Deep Reinforcement Learning" got acceptec in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/)!
+
 - [April 2023] I will join the TPC of [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/)!
 
 - [March 2023] Our work “FACE-AUDITOR: Data Auditing in Facial Recognition Systems” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 
 - [March 2023] Our work “PrivGraph: Differentially Private Graph Data Publication by Exploiting Community Information” got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
 
-<!-- - [Febrary 2023] Share our work Graph Unlearning with Huawei AI4Sec Research Team -->
+<!-- - [Febrary 2023] Share our work Graph Unlearning with [Huawei AI4Sec Research Team](https://huaweiresearchcentergermanyaustria.teamtailor.com/departments/applied-network-technology-lab) -->
 
 - [November 2022] Attending [ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/) in person (Look forward to meeting you in LA!)
   
