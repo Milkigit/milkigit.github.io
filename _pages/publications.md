@@ -4,23 +4,29 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+### <span style="color:#229ad5">SoK: Dataset Copyright Auditing in Machine Learning Systems</span>
+Linkang Du, Xuanru Zhou, <b>Min Chen</b>, Chusong Zhang, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
+
+To appear in [IEEE S&P 2025](https://sp2025.ieee-security.org/) [[PDF]](https://arxiv.org/abs/2410.16618) [[Code]](https://milkigit.github.io/publications/)
+
 ## 2024
 ### <span style="color:#229ad5">ORL-Auditor: Dataset Auditing in Offline Deep Reinforcement Learning</span>
 Linkang Du, <b>Min Chen</b>, Mingyang Sun, Shouling Ji, Peng Cheng, Jiming Chen, Zhikun Zhang 
 
-To appear in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+In [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://arxiv.org/abs/2309.03081) [[Code]](https://github.com/link-zju/ORL-Auditor)
 
 ### <span style="color:#229ad5">LMSanitator: Defending Task-agnostic Backdoors Against Prompt-tuning</span>
 Chengkun Wei, Wenlong Meng, Zhikun Zhang, <b>Min Chen</b>, Minghu Zhao, Wenjing Fang, Lei Wang, Zihui Zhang, Wenzhi Chen
 
-To appear in [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+In [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://arxiv.org/abs/2308.13904) [[Code]](https://github.com/meng-wenlong/LMSanitator)
 
 ## 2023
 ___
 ### <span style="color:#229ad5">DPMLBench: Holistic Evaluation of Differentially Private Machine Learning</span>
 Chengkun Wei, Minghu Zhao, Zhikun Zhang, <b>Min Chen</b>, Wenlong Meng, Bo Liu, Yuan Fan, Wenzhi Chen
 
-To appear in [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
+In [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/) [[PDF]](https://arxiv.org/abs/2305.05900) [[Code]](https://github.com/DmsKinson/DPMLBench)
 
 ### <span style="color:#229ad5">FACE-AUDITOR: Data Auditing in Facial Recognition Systems</span>
 
