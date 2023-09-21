@@ -20,6 +20,7 @@ Hello! I am a Ph.D. student at [CISPA Helmholtz Center for Information Security]
 
 
 ## What's New
+- [Sep 2023] I will join the TPC of [The Web Conference (WWW) 2024](https://www2024.thewebconf.org/)!
 
 <!-- - [Febrary 2023] Share our work on Unlearning with [INSAIT](https://insait.ai/) -->
 
