@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3JGFssYAAAAJ&hl=en"
-  email            : "m.chen2@vu.nl"
+  # email            : "m.chen2@vu.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Milkigit"
+  # github           : "Milkigit"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "min-chen-854925ab"
+  # linkedin         : "min-chen-854925ab"
   orcid            : "http://orcid.org/0000-0002-1128-7989"
   pinterest        :
   soundcloud       :

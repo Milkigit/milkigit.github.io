@@ -12,7 +12,7 @@ redirect_from:
 
 I am a career-track assistant professor at [Vrije Universiteit Amsterdam](https://vu.nl/en), also a faculty member of the [VUSec Group](https://www.vusec.net/). I am passionate to make AI systems more reliable. Prior to join VU, I got my Ph.D. from [CISPA Helmholtz Center for Information Security](http://cispa.de/) (Saarbrücken, Germany), supervised by [Prof. Michael Backes](https://cispa.de/people/backes/). I have two year industrial experience of working as an Operating System Engineer at 2012 Labs@Huawei (Hangzhou, China). I got my master's degree from Zhejiang University and bachelor's degree from Lanzhou University.
 
-I have two PhD positions vacancies currently, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an e-mail with your CV (m.chen2@vu.nl).
+I have two PhD positions vacancies currently, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an e-mail with your CV.
 
 ## Research Interests
 
