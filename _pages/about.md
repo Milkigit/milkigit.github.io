@@ -12,15 +12,17 @@ redirect_from:
 
 I am a career-track assistant professor at [Vrije Universiteit Amsterdam](https://vu.nl/en), also a faculty member of the [VUSec Group](https://www.vusec.net/). I am passionate to make AI systems more reliable. Prior to join VU, I got my Ph.D. from [CISPA Helmholtz Center for Information Security](http://cispa.de/) (Saarbrücken, Germany), supervised by [Prof. Michael Backes](https://cispa.de/people/backes/). I have two year industrial experience of working as an Operating System Engineer at 2012 Labs@Huawei (Hangzhou, China). I got my master's degree from Zhejiang University and bachelor's degree from Lanzhou University.
 
-I have two PhD positions vacancies currently, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an e-mail with your CV.
-
 ## Research Interests
 
-- Trustworthy AI: Privacy, Security, Fairness, Safety, Robustness, Auditing, and Accountability
+- Trustworthy AI: Privacy, Security, Safety, Auditing, and Accountability
 
-- Privacy-Preserving Machine Learning: Differential Privacy, Federated Learning, Synthetic Data Generation
+- Privacy-Preserving Machine Learning: Synthetic Data Generation, Differential Privacy
 
-- AI for CyberSecurity: AI-Driven Vulnerability Discovery
+- AI for CyberSecurity: AI-Driven Automatic Vulnerability Discovery
+
+## Job Openings
+
+I have two PhD positions vacancies which could start immediately, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an [e-mail](mailto:m.chen2@vu.nl) with your CV.
 
 ## What's New
 

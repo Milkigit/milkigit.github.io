@@ -4,7 +4,25 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+Highlights of my publications are listed below. For a complete list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=3JGFssYAAAAJ&hl=en).
+
+* Trustworthy Machine Learning
+  * Machine Unlearning
+    * [CCS’22a] Graph unlearning
+    * [CCS'21] New attack surfaces
+  * Data Ownership Auditing
+    * [Oakland’25] SoK: Dataset copyright auditing
+    * [WWW’25] Data auditing for text to image models
+    * [NDSS’24a] Data auditing for reinforcement learning models
+    * [Security’23a] Data auditing for facial recognition systems
+* Graph Neural Networks
+  * [Security’22] Inference attacks against graph-level GNNs
+  * [CCS’22b] Reconstruction attacks against node-level GNNs
+* Sythetic Data Generation
+  * [Security’23b] Graph data synthesis under DP
+
 ## 2025
+
 ### <span style="color:#0289cf">SoK: Dataset Copyright Auditing in Machine Learning Systems</span>
 Linkang Du, Xuanru Zhou, <b>Min Chen</b>, Chusong Zhang, Zhou Su, Peng Cheng, Jiming Chen, Zhikun Zhang
 
@@ -15,8 +33,8 @@ Linkang Du, Zheng Zhu, <b>Min Chen</b>, Zhou Su, Shouling Ji, Peng Cheng, Jiming
 
 To appear in [WWW 2025](https://www2025.thewebconf.org/) [[PDF]](https://openreview.net/forum?id=4NipenMTmC#discussion) [[Code]](https://anonymous.4open.science/r/ArtistAuditor)
 
-
 ## 2024
+
 ### <span style="color:#0289cf">ORL-Auditor: Dataset Auditing in Offline Deep Reinforcement Learning</span>
 Linkang Du, <b>Min Chen</b>, Mingyang Sun, Shouling Ji, Peng Cheng, Jiming Chen, Zhikun Zhang 
 
@@ -28,7 +46,7 @@ Chengkun Wei, Wenlong Meng, Zhikun Zhang, <b>Min Chen</b>, Minghu Zhao, Wenjing 
 In [NDSS 2024](https://www.ndss-symposium.org/ndss2024/) [[PDF]](https://arxiv.org/abs/2308.13904) [[Code]](https://github.com/meng-wenlong/LMSanitator)
 
 ## 2023
-___
+
 ### <span style="color:#0289cf">DPMLBench: Holistic Evaluation of Differentially Private Machine Learning</span>
 Chengkun Wei, Minghu Zhao, Zhikun Zhang, <b>Min Chen</b>, Wenlong Meng, Bo Liu, Yuan Fan, Wenzhi Chen
 
@@ -52,9 +70,7 @@ Haiming Wang, Zhikun Zhang, <b>Min Chen</b>, Shibo He
 
 In [IEEE ICC 2023](https://icc2023.ieee-icc.org/) [[PDF]](https://milkigit.github.io/publications/) [[Code]](https://milkigit.github.io/publications/)
 
-
 ## 2022
-___
 
 ### <span style="color:#0289cf">Graph Unlearning</span>
 
@@ -74,9 +90,7 @@ Zhikun Zhang, <b>Min Chen</b>, Michael Backes, Yun Shen, Yang Zhang
 
 In USENIX Security Symposium (USENIX Security 2022). [[PDF]](https://arxiv.org/abs/2110.02631) [[Code]](https://github.com/Zhangzhk0819/GNN-Embedding-Leaks)
 
-
 ## 2021
-___
 
 ### <span style="color:#0289cf">When Machine Unlearning Jeopardizes Privacy</span>
 
@@ -84,16 +98,13 @@ ___
 
 In ACM SIGSAC Conference on Computer and Communications Security (CCS 2021) [[PDF]](https://arxiv.org/abs/2005.02205) [[Code]](https://github.com/MinChen00/UnlearningLeaks)
 
-
 ### <span style="color:#0289cf">Graph Unlearning</span>
 
 <b>Min Chen</b>, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang
 
 *Tecnnical report* [[PDF]](https://arxiv.org/abs/2103.14991)
 
-
 ## 2015
-___
 
 ### <span style="color:#0289cf">RF-Based Charger Placement for Duty Cycle Guarantee in Battery-Free Sensor Networks</span>
 
