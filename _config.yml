@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Min Chen / (陈敏)"
 title_separator          : "-"
 name                     : &name "Min Chen"
-description              : &description "Ph.D. student at CISPA"
+description              : &description "Assistant Professor at Vrije Universiteit Amsterdam"
 url                      : https://Milkigit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Milkigit/Milkigit.github.io"
@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Min Chen"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "Assistant Professor at Vrije Universiteit Amsterdam"
   location         : "Amsterdam, Netherlands"
-  employer         :
+  # employer         : "Vrije Universiteit Amsterdam"
+  # position         : "Assistant Professor"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3JGFssYAAAAJ&hl=en"
   # email            : "m.chen2@vu.nl"
@@ -176,10 +177,13 @@ kramdown:
 
 # Collections
 collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  students:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -210,10 +214,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # # _teaching
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # # _students
+  - scope:
+      path: ""
+      type: students
     values:
       layout: single
       author_profile: true
