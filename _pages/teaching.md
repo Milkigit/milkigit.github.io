@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## After 2024
-I teach two Master courses at [Vrije Universiteit Amsterdam](https://vu.nl/en).
+I teach three Master courses at [Vrije Universiteit Amsterdam](https://vu.nl/en).
 
-* Master Course: [Secure and Trustworthy Machine Learning](https://studiegids.vu.nl/en/2025-2026/courses/XM_0179) Co-teach with [Marten van Dijk](https://www.cwi.nl/en/people/marten-van-dijk/) (2025 - 2026 P3)
+* Master Course: [Latest Advances in Artificial Intelligence](https://studiegids.vu.nl/en/2026-2027/courses/XM_0185) Co-teach with [Kevin](https://kevin-luck.com/), [Filip](https://www.ilievski.info/), [Anil](https://www.anilyaman.com/), [Elena](https://research.vu.nl/en/persons/elena-beretta/), and [Aneta](https://research.vu.nl/en/persons/aneta-lisowska/) (2026 - 2027 P2)
 
 * Master Course:: [AI for Security](https://studiegids.vu.nl/en/2025-2026/courses/XM_0178) Co-teach with [Mengyuan Zhang](https://mengyuanzhang.github.io/) (2025 - 2026 P6)
+
+* Master Course: [Secure and Trustworthy Machine Learning](https://studiegids.vu.nl/en/2025-2026/courses/XM_0179) Co-teach with [Marten van Dijk](https://www.cwi.nl/en/people/marten-van-dijk/) (2025 - 2026 P3)
 
 * Master Course: [Security and Machine Learning](https://studiegids.vu.nl/en/vakken/2024-2025/XM_0135#/)  Co-teach with [Marten van Dijk](https://www.cwi.nl/en/people/marten-van-dijk/) (2024-2025 P3)
 
