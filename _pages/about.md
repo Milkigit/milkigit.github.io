@@ -25,6 +25,7 @@ I am a career-track assistant professor at [Vrije Universiteit Amsterdam](https:
 I have two PhD positions vacancies which could start immediately, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an [e-mail](mailto:m.chen2@vu.nl) with your CV.
 
 ## What's New
+- [05/2025] [GradEscape](https://arxiv.org/abs/2506.08188) got accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25).
 
 - [01/2025] [ArtistAuditor](https://openreview.net/forum?id=4NipenMTmC#discussion) got accepted by [WWW 2025](https://www2025.thewebconf.org/), looking forward to visiting Sydney.
 
