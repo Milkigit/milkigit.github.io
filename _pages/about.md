@@ -26,6 +26,10 @@ I have two PhD positions vacancies which could start immediately, if you would l
 
 ## What's New
 
+- [09/2025] Hyperparameter Leakage in DRL got Accecpted by [IEEE TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
+
+- [05/2025] [GradEscape](https://arxiv.org/abs/2506.08188) got accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25).
+
 - [01/2025] [ArtistAuditor](https://openreview.net/forum?id=4NipenMTmC#discussion) got accepted by [WWW 2025](https://www2025.thewebconf.org/), looking forward to visiting Sydney.
 
 - [10/2024] Our work "[SoK: Dataset Copyright Auditing in Machine Learning Systems](https://arxiv.org/abs/2410.16618)" got accepted in [IEEE S&P 2025](https://sp2025.ieee-security.org/), looking forward to visiting San Francisco!

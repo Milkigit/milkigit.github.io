@@ -26,3 +26,5 @@ I serve as a thesis committee member for the following students.
 * Bilgehan Ertan at Vrije Universiteit Amsterdam, supervised by [Marten van Dijk](https://www.cwi.nl/en/people/marten-van-dijk/), Master Thesis Computer Science (2024-2025)
 
 * Riccardo Iesari at Vrije Universiteit Amsterdam, supervised by [Erik van der Kouwe](https://www.vusec.net/people/erik-van-der-kouwe/), Master Thesis Computer Science (2024-2025)
+
+* Bogdan Cercel at Vrije Universiteit Amsterdam, supervised by [Erik van der Kouwe](https://www.vusec.net/people/erik-van-der-kouwe/), Master Thesis Computer Science (2024-2025)

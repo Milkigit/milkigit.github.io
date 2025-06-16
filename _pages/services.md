@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Program Commitee Member
-
+* 2026: CVPR, WWW, Euro S&P
 * 2025: USENIX Security AE, CVPR, ICLR, AsiaCCS, PoPETs, Amsterdam AI Thesis Award
 * 2024: WWW, TKDD, AsiaCCS, PoPETs
 * 2023: ACM CCS, ICCV, PoPETs Artifacts Evaluation
