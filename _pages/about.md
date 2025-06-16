@@ -10,7 +10,7 @@ redirect_from:
 
 ## Bio
 
-I am a career-track assistant professor at [Vrije Universiteit Amsterdam](https://vu.nl/en), also a faculty member of the [VUSec Group](https://www.vusec.net/). I am passionate to make AI systems more reliable. Prior to join VU, I got my Ph.D. from [CISPA Helmholtz Center for Information Security](http://cispa.de/) (Saarbrücken, Germany), supervised by [Prof. Michael Backes](https://cispa.de/people/backes/). I have two year industrial experience of working as an Operating System Engineer at 2012 Labs@Huawei (Hangzhou, China). I got my master's degree from Zhejiang University and bachelor's degree from Lanzhou University.
+I am a tenured assistant professor at [Vrije Universiteit Amsterdam](https://vu.nl/en), also a faculty member of the [VUSec Group](https://www.vusec.net/). I am passionate to make AI systems more reliable. Prior to join VU, I got my Ph.D. from [CISPA Helmholtz Center for Information Security](http://cispa.de/) (Saarbrücken, Germany), supervised by [Prof. Michael Backes](https://cispa.de/people/backes/). I have two year industrial experience of working as an Operating System Engineer at 2012 Labs@Huawei (Hangzhou, China). I got my master's degree from Zhejiang University and bachelor's degree from Lanzhou University.
 
 ## Research Interests
 
@@ -22,9 +22,19 @@ I am a career-track assistant professor at [Vrije Universiteit Amsterdam](https:
 
 ## Job Openings
 
-I have two PhD positions vacancies which could start immediately, if you would like to apply for a position, please fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. I am always looking for self-motivated students to work with me, if you are interested, feel free to drop me an [e-mail](mailto:m.chen2@vu.nl) with your CV.
+I am always looking for self-motivated students to work with me. If you would like to apply for a position, feel free to send me an [e-mail](mailto:m.chen2@vu.nl) with your CV and fill out this [Form](https://docs.google.com/forms/d/1gMiWvk_l3UAkY-nj250_UkxGU4IxsVUp5i2iwBnhiSU/edit) to schedule a meeting. If you would like to do your thesis with me, please drop me an email with your CV and transcript.
 
 ## What's New
+
+- [12/2025] PrivATE and VICTOR got accepted by [NDSS 2026](https://www.ndss-symposium.org/ndss2026/)!
+
+- [12/2025] I got Tenure at Vrije Universiteit Amsterdam!
+
+- [10/2025] Welcome our new Ph.D. student Qingyu Meng!
+
+- [09/2025] Hyperparameter Leakage in DRL got accecpted by [IEEE TDSC](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8858).
+
+- [05/2025] [GradEscape](https://arxiv.org/abs/2506.08188) got accepted by [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25).
 
 - [01/2025] [ArtistAuditor](https://openreview.net/forum?id=4NipenMTmC#discussion) got accepted by [WWW 2025](https://www2025.thewebconf.org/), looking forward to visiting Sydney.
 
@@ -32,13 +42,9 @@ I have two PhD positions vacancies which could start immediately, if you would l
 
 - [Fall 2024] I moved to Amsterdam and started my new position as an assistant professor at [Vrije University Amsterdam](https://vu.nl/en)!
 
-- [08/2024] I joined the TPC of [AsiaCCS 2025](https://asiaccs2025.hust.edu.vn/).
-
-- [05/2024] I joined the TPC of [PoPETs 2025](https://petsymposium.org/cfp25.php).
-
-- [05/2024] I passed my Ph.D. defense at [CISPA Helmholtz Center for Information Security](http://cispa.de/).
-
 ## Talks
+
+- [10/2025] A guest lecture at [SoftSec 2025](https://research.vu.nl/en/courses/software-security-5), VU Amsterdam, Netherlands.
 
 - [06/2024] Give a talk at Central South University, Changsha, China.
 
